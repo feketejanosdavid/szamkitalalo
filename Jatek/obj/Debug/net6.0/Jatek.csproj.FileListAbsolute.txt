@@ -1,0 +1,14 @@
+C:\Users\Diak\..fjd\Második_félév\asztali_alkalmazasok\2024-01-17\feladat2\Jatek\bin\Debug\net6.0\Jatek.exe
+C:\Users\Diak\..fjd\Második_félév\asztali_alkalmazasok\2024-01-17\feladat2\Jatek\bin\Debug\net6.0\Jatek.deps.json
+C:\Users\Diak\..fjd\Második_félév\asztali_alkalmazasok\2024-01-17\feladat2\Jatek\bin\Debug\net6.0\Jatek.runtimeconfig.json
+C:\Users\Diak\..fjd\Második_félév\asztali_alkalmazasok\2024-01-17\feladat2\Jatek\bin\Debug\net6.0\Jatek.dll
+C:\Users\Diak\..fjd\Második_félév\asztali_alkalmazasok\2024-01-17\feladat2\Jatek\bin\Debug\net6.0\Jatek.pdb
+C:\Users\Diak\..fjd\Második_félév\asztali_alkalmazasok\2024-01-17\feladat2\Jatek\obj\Debug\net6.0\Jatek.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Diak\..fjd\Második_félév\asztali_alkalmazasok\2024-01-17\feladat2\Jatek\obj\Debug\net6.0\Jatek.AssemblyInfoInputs.cache
+C:\Users\Diak\..fjd\Második_félév\asztali_alkalmazasok\2024-01-17\feladat2\Jatek\obj\Debug\net6.0\Jatek.AssemblyInfo.cs
+C:\Users\Diak\..fjd\Második_félév\asztali_alkalmazasok\2024-01-17\feladat2\Jatek\obj\Debug\net6.0\Jatek.csproj.CoreCompileInputs.cache
+C:\Users\Diak\..fjd\Második_félév\asztali_alkalmazasok\2024-01-17\feladat2\Jatek\obj\Debug\net6.0\Jatek.dll
+C:\Users\Diak\..fjd\Második_félév\asztali_alkalmazasok\2024-01-17\feladat2\Jatek\obj\Debug\net6.0\refint\Jatek.dll
+C:\Users\Diak\..fjd\Második_félév\asztali_alkalmazasok\2024-01-17\feladat2\Jatek\obj\Debug\net6.0\Jatek.pdb
+C:\Users\Diak\..fjd\Második_félév\asztali_alkalmazasok\2024-01-17\feladat2\Jatek\obj\Debug\net6.0\Jatek.genruntimeconfig.cache
+C:\Users\Diak\..fjd\Második_félév\asztali_alkalmazasok\2024-01-17\feladat2\Jatek\obj\Debug\net6.0\ref\Jatek.dll
